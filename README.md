@@ -21,5 +21,5 @@ Convinced that learning is a continuous process, I strive to perfect my mastery 
 ## 📫 How to reach me
 - My mail : amadoumaelle@gmail.com
 - Sharing updates on <a href="https://www.linkedin.com/in/enora-amadou-938989238">LinkedIn</a> 💼
-- Check <a href="https://linktr.ee/enora_amadou">here ✨</a>
+- Check my links <a href="https://linktr.ee/enora_amadou">here</a> ✨
 - My portfolio : Coming soon...
