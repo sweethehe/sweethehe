@@ -18,7 +18,14 @@ Convinced that learning is a continuous process, I strive to perfect my mastery 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📫 How to reach me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sweethehe&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sweethehe&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sweethehe&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=sweethehe&icon=7&color=10)](https://visitcount.itsvg.in)
+
+## 📫🌐 How to reach me
 - My mail : amadoumaelle@gmail.com
 - Sharing updates on <a href="https://www.linkedin.com/in/enora-amadou-938989238">LinkedIn</a> 💼
 - Check my links <a href="https://linktr.ee/enora_amadou">here</a> ✨
